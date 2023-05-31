@@ -1,4 +1,5 @@
 # 💫 About Me:
+雨降って地固まる
 
 こにちは。はじめまして。タミムともうします。Android と Web の開発者です。私JavaとKotlinとJavascriptができます。LinuxとKVM Virtualizationにもきょうみがあります。私はノートパソコンでArch Linuxを使っています。今日本に来て働くためにB-JETのけんしゅせいとしてがんばっています。このRepoに私のぜんぶのプロジェクトがあります。ぜんぶのプロジェクトがてずくりでせ。じぶんの
 
