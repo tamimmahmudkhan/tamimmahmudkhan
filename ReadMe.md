@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a Computer Science Graduate. My current expertise are in Java, Javascript and Android Development. I daily driver Arch Linux and use a Laptop with Arch Host and a Windows Guest with GPU Passthrough to maintain near native performance. I am looking for jobs. 私は Android と Web の開発者です。<br>
+
+こにちは。はじめまして。タミムともうします。Android と Web の開発者です。私JavaとKotlinとJavascriptができます。LinuxとKVM Virtualizationにもきょうみがあります。私はノートパソコンでArch Linuxを使っています。今日本に来て働くためにB-JETのけんしゅせいとしてがんばっています。このRepoに私のぜんぶのプロジェクトがあります。ぜんぶのプロジェクトがてずくりでせ。じぶんの
+
+I am a Computer Science Graduate. My current expertise are in Java, Javascript and Android Development. I daily driver Arch Linux and use a Laptop with Arch Host and a Windows Guest with GPU Passthrough to maintain near native performance. I am looking for jobs.<br>
 
 
 ## 🌐 Socials:
